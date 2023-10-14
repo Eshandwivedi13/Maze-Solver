@@ -1,0 +1,9 @@
+*.class
+/.gradle/*
+/build/*
+
+.idea
+*.iml
+
+out/
+src/main/java/META-INF/
